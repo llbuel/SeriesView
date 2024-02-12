@@ -1,6 +1,6 @@
 # SeriesView
  
-A program to visualize the partial sums of a series using a simple test input.
+A program to visualize the partial sums of a series using a simple text input.
 
 For example, the sum 
 
