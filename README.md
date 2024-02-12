@@ -19,4 +19,4 @@ Currently, the function supports the basic operations for exponentiation, negati
 ## To do:
 
 * Inclusion of common mathematical functions such as `sin()` or `sqrt()`
-* Including support of common mathematical constants such as $\pi$ or **e**
+* Including support of common mathematical constants such as **$\pi$** or **e**
