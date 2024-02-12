@@ -20,3 +20,4 @@ Currently, the function supports the basic operations for exponentiation, negati
 
 * Inclusion of common mathematical functions such as `sin()` or `sqrt()`
 * Including support of common mathematical constants such as **$\pi$** or **e**
+* Port to a GUI using TKinter for better UX
