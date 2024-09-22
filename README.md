@@ -4,7 +4,7 @@ A program to visualize the partial sums of a series using a simple text input.
 
 For example, the sum 
 
-$$\sum_{n=1}^{10}\frac{(-1)^{n+1}}{n^3}$$
+$$\sum_{n=0}^{10}\frac{(-1)^{n+1}}{n^3}$$
 
 could be entered as:
 
